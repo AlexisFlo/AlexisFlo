@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+<!--<a href="https://twitter.com/ddt_azevedo" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+[![Instagram](https://img.shields.io/badge/-alexis_flowers-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/)-->
+
+
+
+### ✔️ I'm currently learning
+- JavaScript
+- NodeJS
+- ExpressJS
+- Angular
+- ReactJS
+- Mongo
+
+### 👩‍💻 I'm working on
+- Building projects. 
+
+**Connect with me:**
+<p align="left">
+<a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://open.spotify.com/user/onlyvatana23?si=-McUZw0zTj-a8SvbVe1qZA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.goodreads.com/user/show/83098234-vatana-chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+   <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+
 <!--
 **AlexisFlo/AlexisFlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
