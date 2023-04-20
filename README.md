@@ -4,8 +4,6 @@
 - JavaScript
 - NodeJS
 - ExpressJS
-- Angular
-- ReactJS
 - Mongo
 
 ### 👩‍💻 I'm working on
