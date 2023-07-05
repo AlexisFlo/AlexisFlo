@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### ✔️ I'm currently learning
+### 🔭 I’m currently working on
+
 - JavaScript
 - NodeJS
 - ExpressJS
