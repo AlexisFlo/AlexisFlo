@@ -2,10 +2,7 @@
 
 ### 🔭 I’m currently working on
 
-- JavaScript
-- NodeJS
-- ExpressJS
-- Mongo
+- Next.js
 
 ### 👩‍💻 I'm working on
 - Building projects. 
