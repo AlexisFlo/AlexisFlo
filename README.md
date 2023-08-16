@@ -4,9 +4,6 @@
 
 - Next.js
 
-### 👩‍💻 I'm working on
-- Building projects. 
-
 **Connect with me:**
 <p align="left">
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
