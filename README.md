@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on
+### 🔭 I’m currently working on personal projects 
+### 🌱 I’m currently learning Next.js 
 
-- Next.js
 
 **Connect with me:**
 <p align="left">
