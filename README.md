@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on personal projects 
-### 🌱 I’m currently learning Next.js 
+### 🌱 I’m currently learning Expo router 
+### 🤔 I’m looking for help with Expo
 
 
 **Connect with me:**
