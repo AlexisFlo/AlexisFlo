@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on personal projects 
+### 🔭 I’m currently working at SinergiTec 
 ### 🌱 I’m currently learning Expo router 
 ### 🤔 I’m looking for help with Expo
 
