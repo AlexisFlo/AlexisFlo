@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working at SinergiTec 
-### 🌱 I’m currently learning Expo router 
-### 🤔 I’m looking for help with Expo
+### 🤔 I’m looking for help with React Native
 
 
 **Connect with me:**
