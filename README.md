@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working at SinergiTec 
-### 🤔 I’m looking for help with React Native
 
 
 **Connect with me:**
