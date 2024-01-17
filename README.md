@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working at SinergiTec 
+### 🔭 I’m currently working at SinergiTec.
 
 
 **Connect with me:**
