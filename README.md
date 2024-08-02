@@ -8,15 +8,12 @@
 ### 👨‍💻 About Me :
 
 - 📝 I work as a full stack web developer
-
-- 📫 How to reach me **floresfernandezalexishr@gmail.com**
-
 - 🌱 I’m currently learning **React.js**
 
 
 **Connect with me:**
 <p align="left">
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+<!--<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp; -->
 <a href="https://twitter.com/alexisflowersf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexis_flowers" height="40" width="40" /></a> &nbsp;&nbsp;
 <!-- <a href="https://www.facebook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp; -->
 </p>
