@@ -18,7 +18,7 @@
 }
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisFlog&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisFlo&layout=compact&hide=css,html)
 
 ---
 
