@@ -7,7 +7,8 @@
 
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.ts`, `.dart`, `.astro`
 - 📝 I work as a full stack web developer
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on top-secret projects
+- 🌱 Always expanding my knowledge
 
 ```css
 #alexisflo {  
