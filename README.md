@@ -13,8 +13,8 @@
 #alexisflo {  
   height: 171cm; 
   display: boy; 
-  background: Tinker Resolver 🧠; 
-  color: -green; 
+  background: Thinker Resolver 🧠; 
+  color: green; 
 }
 ```
 
