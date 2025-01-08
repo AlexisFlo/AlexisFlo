@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Java developer by night ☾
+#### A Full-Stack Developer by day ☼ and a Rust developer by night ☾
 
 ---
 ### 👨‍💻 About Me :
