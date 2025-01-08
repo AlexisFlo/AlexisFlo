@@ -5,7 +5,7 @@
 ---
 ### 👨‍💻 About Me :
 
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.ts`, `.dart`, `.astro`
+- ⚙️ I use daily: `.java`, `.rs`, `.html`, `.css`, `.js`, `.ts`, `.astro`
 - 📝 I work as a full stack web developer
 - 🔭 I’m currently working on top-secret projects
 - 🌱 Always expanding my knowledge
