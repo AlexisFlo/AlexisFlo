@@ -26,7 +26,7 @@ I'm an indie full-stack developer.
 ---
 ### 👨‍💻 About Me :
 
-- ⚙️ I use daily: `.ts`, `.rs`, `.py`, `.html`, `.css`, `.ts`, `.js`, `.astro`
+- ⚙️ I use daily: `.ts`, `.rs`, `.py`, `.go`,  `.html`, `.css`, `.ts`, `.js`, `.astro`
 - 📝 I work as a mobile developer
 - 🔭 I’m currently working on top-secret projects
 - 🌱 Always expanding my knowledge
