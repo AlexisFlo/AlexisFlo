@@ -46,9 +46,7 @@
 ## `$ ~/dev/currently.sh`
 
 ```
-[ACTIVE]   Sistema de calibración de laboratorio — React + TS + NestJS
-[ACTIVE]   App de escritorio para tintorería — Python + PyQt5 + SQLite
-[LEARNING] Profundizando fundamentos: el "por qué", no solo el "cómo"
+[ACTIVE]   Sistema de calibración de laboratorio — React + TS + NestJS + MongoDB
 ```
 
 <br>
