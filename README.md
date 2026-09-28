@@ -1,27 +1,26 @@
 <div align="center">
 
-# `AF_`
+# AF_
 
-### WEB DEVELOPER // FULL STACK
+### Web Developer · Full Stack
 
 *Dos espadas: una para crear, otra para cazar bugs.*
+
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/a_flodev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexisFloresF)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://afloresf.netlify.app/)
 
 </div>
 
 <br>
 
-## `$ ~/dev/whoami.sh`
+## Sobre mí
 
-```
-> Ingeniero en TICS especializado en Diseño de Aplicaciones Web
-> Frontend Dev Jr @ Airon Tools
-> +3 años moviéndome entre FullStack e infraestructura de sistemas
-> Autodidacta. Si no evoluciono, me quedo atrás.
-```
+Ingeniero en TICs especializado en diseño de aplicaciones web. Más de 3 años moviéndome entre desarrollo full stack e infraestructura de sistemas. Autodidacta: si no evoluciono, me quedo atrás.
 
 <br>
 
-## `$ ~/dev/stack.sh`
+## Stack
 
 <div align="left">
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
@@ -43,35 +42,34 @@
 
 <br>
 
-## `$ ~/dev/currently.sh`
+## Actualmente
 
-```
-[ACTIVE]   Sistema de calibración de laboratorio — React + TS + NestJS + MongoDB
-```
+Sistema de calibración de laboratorio con React, TypeScript, NestJS y MongoDB.
 
 <br>
 
-## `$ ~/dev/stats.sh`
+## Experiencia
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisFlo&layout=compact&hide=css,html&theme=dark" alt="Top Langs" />
-</div>
+**Frontend Developer Jr.** · Airon Tools  
+`Feb 2026 – Actualidad` · CDMX, México
+
+- Interfaces para sistemas internos de administración con React, TypeScript y Tailwind CSS
+- Módulo kanban de gestión de proyectos, sistema de permisos por roles y notificaciones en tiempo real (Service Worker + Web Push API)
+- CRUD de clientes con formularios dinámicos; integración de APIs REST con Axios sobre backend NestJS/MongoDB
+- Soporte técnico e infraestructura: servidores, cableado estructurado y videovigilancia
+
+**Desarrollador Full Stack** · SinergiTec  
+`Oct 2023 – Jun 2025`
+
+- Agente conversacional de WhatsApp que redujo 60% las llamadas entrantes para cotizaciones
+- App móvil de gestión de compras con React Native, Supabase y Zustand
+- Aplicaciones web en Go y flujo de control de versiones que redujo errores en despliegues
 
 <br>
 
-## `$ ~/dev/comms.sh`
+## Stats
 
 <div align="center">
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/a_flodev)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexisFlo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexisFloresF)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://afloresf.netlify.app/)
-
-</div>
-
-<div align="center">
-
-`SYSTEM STATUS: ONLINE` · `ENC_TYPE: AES-256-GCM`
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisFlo&hide_border=true&theme=dark" alt="GitHub Streak" />
+<br>
 </div>
