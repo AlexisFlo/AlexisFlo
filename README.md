@@ -4,7 +4,7 @@
 
 ### Web Developer · Full Stack
 
-*Dos espadas: una para crear, otra para cazar bugs.*
+*Dos espadas: una para crear, otra para cazar bugs.* TW
 
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/a_flodev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexisFloresF)
