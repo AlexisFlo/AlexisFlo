@@ -20,7 +20,7 @@ Ingeniero en TICs especializado en diseño de aplicaciones web. Más de 3 años 
 
 <br>
 
-## Stack
+## Skills
 
 <div align="left">
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
