@@ -97,6 +97,6 @@ Ingeniero en TICs especializado en diseño de aplicaciones web. Más de 3 años 
 
 [Proyectos](https://afloresf.netlify.app/#projects) · [Servicios](https://afloresf.netlify.app/#services) · [Contacto](https://afloresf.netlify.app/#contact)
 
-<sub>© 2026 FLODEV.SH</sub>
+<sub>© 2026 alxflo.dev</sub>
 
 </div>
