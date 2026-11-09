@@ -37,7 +37,7 @@
 
 ## Sobre mí
 
-Ingeniero en TICs especializado en diseño de aplicaciones web. Más de 3 años moviéndome entre desarrollo full stack e infraestructura de sistemas. Autodidacta: si no evoluciono, me quedo atrás.
+Ingeniero en TICs especializado en diseño de aplicaciones web. Más de 3 años moviéndome entre desarrollo full stack e infraestructura de sistemas. Autodidacta
 
 <br>
 
